@@ -1,0 +1,8 @@
+myvenv/
+mlruns/
+logs/
+artifacts/
+catboost_info/
+venv/
+.vscode/
+.git/

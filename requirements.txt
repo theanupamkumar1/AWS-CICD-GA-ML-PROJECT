@@ -1,0 +1,12 @@
+pandas
+flask
+python-dotenv
+pymongo
+scikit-learn
+dill
+mlflow
+catboost
+xgboost
+dvc
+
+-e .
