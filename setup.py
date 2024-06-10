@@ -3,6 +3,7 @@ from typing import List
 
 hypen_e_dot = "-e ."
 
+
 def get_req(file_path: str) -> List[str]:
     req = []
     with open(file_path, 'r', encoding='utf-8') as f:
