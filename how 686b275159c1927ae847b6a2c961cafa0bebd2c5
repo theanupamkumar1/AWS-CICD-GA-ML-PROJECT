@@ -1,0 +1,30 @@
+[33mcommit 686b275159c1927ae847b6a2c961cafa0bebd2c5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 9f85610 c6422ea
+Author: anupam <anupamkumar7802@gmail.com>
+Date:   Mon Jun 10 22:57:32 2024 +0530
+
+    Merge branch 'main' of https://github.com/theanupamkumar1/AWS-CICD-GA-ML-PROJECT
+
+[33mcommit 9f85610036d0fac85cfd2f0ccde76172aa727707[m
+Author: anupam <anupamkumar7802@gmail.com>
+Date:   Mon Jun 10 22:57:04 2024 +0530
+
+    docker file edited
+
+[33mcommit c6422ea5c79991c26a44ab3c9f65af8e6c261cdf[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Anupam Kumar <62919574+theanupamkumar1@users.noreply.github.com>
+Date:   Sun Jun 9 23:19:07 2024 +0530
+
+    Update README.md
+
+[33mcommit 5fe79b8a74c035e3b2516df3b34013d1f7193ab3[m
+Author: anupam <anupamkumar7802@gmail.com>
+Date:   Sun Jun 9 23:17:42 2024 +0530
+
+    first upload
+
+[33mcommit c2ad49a691cdbdb8121560f283d2c140380f1bcf[m
+Author: anupam <anupamkumar7802@gmail.com>
+Date:   Sun Jun 9 23:13:03 2024 +0530
+
+    first commit
